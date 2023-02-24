@@ -1,0 +1,39 @@
+.table {
+    margin-top: 20px;
+}
+
+.onOffDropdown {
+    text-decoration: none;
+}
+
+.dropdownOrder {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: none;
+}
+
+.pros-name,
+.pros-quantity,
+.pros-subtotal,
+.pros-total {
+    font-weight: 100;
+}
+
+.pro-image {
+    max-width: 50%;
+    max-height: 50%;
+    width: auto;
+    height: auto;
+}
+
+.pro-name {
+    text-decoration: none;
+    color: black;
+}
+
+.pro-qty,
+.pro-price,
+.pro-total,
+.pro-name {
+    font-weight: 100;
+}

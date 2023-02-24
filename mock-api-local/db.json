@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "firstName": "Hùng Tiến ",
+      "lastName": "Minh",
+      "email": "phamgiabinh95@gmail.com",
+      "phone": "0989708895",
+      "city": "1",
+      "district": "7",
+      "commune": "280",
+      "address": "78 ngõ 205 giải phóng p đồng tâm q hai bà trưng",
+      "exampleFormControlTextarea1": "Hello!!!",
+      "date": "Wed Feb 22 2023",
+      "id": "abb20888a",
+      "listDataCart": [
+        {
+          "id": 5,
+          "name": "Sản phẩm 5",
+          "amount": 58,
+          "price": 990000,
+          "image": "../image/product/471bffe8-9757-4b0e-8416-8ed1a9e5c7d0.jpg",
+          "quantity": 4
+        },
+        {
+          "id": 7,
+          "name": "Sản phẩm 7",
+          "amount": 58,
+          "price": 1200000,
+          "image": "../image/product/air-force-1-high-07-lv8-shoes-RTQ6x1.jpg",
+          "quantity": 4
+        },
+        {
+          "id": 23,
+          "name": "Sản phẩm 23",
+          "amount": 19,
+          "price": 2960000,
+          "image": "../image/product/waffle-one-se-shoes-4PgbzS.jpg",
+          "quantity": 5
+        }
+      ]
+    }
+  ]
+}
